@@ -1,0 +1,15 @@
+class Stone{
+constructor(){
+
+
+
+
+
+
+
+}
+
+
+
+
+}
